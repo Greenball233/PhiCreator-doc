@@ -1,7 +1,5 @@
 # PhiCreator v0.1.2bugfixed-2 doc #
-**注：所有数字输入框不能直接输入小数点，需要在别的地方输入好后复制粘贴上去（啥b bug快修）**
-**还有，在一个正整数前面用英文输入法输入.可以直接创造0.x**
 ## 目录 ##
-[**1.编辑器选项**](zh/option.md)  
-[**2.铺面预览**](zh/playchart.md)  
-[**3.编辑谱面（WIP）**](zh/edit.md)
+[**1.编辑器选项**](assets/zh/option.md)  
+[**2.铺面预览**](assets/zh/playchart.md)  
+[**3.编辑谱面（WIP）**](assets/zh/edit.md)
