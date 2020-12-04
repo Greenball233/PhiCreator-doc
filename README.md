@@ -1,5 +1,5 @@
 # PhiCreator-doc #
-> It's in WIP  
+> It's Working in process.  
 
 **Cover phi-x team**  
 **DocAuthor Greenball233**
