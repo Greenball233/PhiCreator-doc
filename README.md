@@ -13,3 +13,5 @@ P.S.:This README.md is also made by Markdown Pad 2.
 翻译：  
 首先，下载源码。接着，用Markdown Pad 2打开index.md（你也可以用别的软件打开但是我不能保证它会正常工作）。  
 注：这个README.md也是被用Markdown Pad 2做的。
+Well...I think I should build a web to use it.
+翻译：我想我应该建个站来使用它。
